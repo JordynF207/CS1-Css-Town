@@ -1,5 +1,5 @@
 body {
-    background: url(https://cdn.architextures.org/textures/23/6/moss-none-q6upe8.jpg);
+    background: url(https://cdn.architextures.org/textures/23/6/moss-none-wy1byb.jpg);
     background-size: 80%;
     height:100%;
     width: 100%;
@@ -9,4 +9,33 @@ body {
 #sky {
 background: linear-gradient(rgb(119, 165, 180), rgb(132, 166, 188), rgb(207, 220, 230));
 height:60%;
+}
+ #cloud {
+  font-size:50px;
+  position: absolute;
+  left: 80px;
+  top: 40px;
+}
+#cloud2 {
+    font-size: 60px;
+    position: absolute;
+    left: 400px;
+    top: 50px;
+}
+#chipmunk {
+    font-size: 50px;
+    position: absolute;
+    right: 40px;
+    bottom: 40px
+}
+#cabin {
+    width: 300px;
+    position: absolute;
+    top: 150px;
+}
+#pathway {
+    width: 200px;
+    position: absolute;
+    left: 20px;
+    top: 
 }
