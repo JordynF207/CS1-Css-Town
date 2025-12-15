@@ -26,13 +26,13 @@ height:60%;
     font-size: 50px;
     position: absolute;
     right: 40px;
-    bottom: 40px
+    bottom: 40px;
 }
 #cabin {
     width: 300px;
     position: absolute;
     top: 150px;
-    z-index:80
+    z-index:80;
 }
 #pathway {
     width: 200px;
@@ -84,4 +84,11 @@ height:60%;
     Position: absolute;
     top:140px;
     left: 20px;
+}
+#tulip {
+    font-size: 40px;
+    position: absolute;
+    bottom: 90px;
+    right: 150px;
+
 }
