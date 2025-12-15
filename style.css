@@ -7,7 +7,7 @@ body {
     padding:0;
 }
 #sky {
-background: linear-gradient(rgb(119, 165, 180), rgb(132, 166, 188), rgb(207, 220, 230));
+background: linear-gradient(rgb(119, 165, 180), rgb(132, 166, 188), rgb(176, 202, 222));
 height:60%;
 }
  #cloud {
@@ -32,14 +32,56 @@ height:60%;
     width: 300px;
     position: absolute;
     top: 150px;
+    z-index:80
 }
 #pathway {
     width: 200px;
     position: absolute;
-    left: 20px;
-    top: 
+    left: 75px;
+    top: 345px;
 }
 #fairy1 {
-    font-size: 20px;
-    width: 20px;
+    width: 100px;
+    position: absolute;
+    left: 90px;
+    top: 300px;
+    z-index: 80;
+}
+#tree1 {
+    width: 150px;
+    position: absolute;
+    left: 400px;
+    top: 250px;
+}
+ #fairy2 {
+    width:90px;
+    position: absolute;
+    left: 300px;
+    top: 80px;
+}
+#hedgehog {
+    font-size: 60px;
+    position: absolute;
+    left: 300px;
+    top: 500px;
+
+}
+#rabbit {
+    font-size: 60px;
+    position: absolute;
+    left: 400px;
+    top: 350px;
+}
+#dove {
+    font-size: 50px;
+    position: absolute;
+    left: 600px;
+    top: 40px;
+
+}
+#phoenix {
+    font-size: 50px;
+    Position: absolute;
+    top:140px;
+    left: 20px;
 }
